@@ -87,7 +87,7 @@ npm run test:coverage
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/ZahraN444/typrotitop/tree/3.4.3/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/ZahraN444/typrotitop/tree/6.5.6/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -132,10 +132,10 @@ const client = new Client({
 
 ## List of APIs
 
-* [API](https://www.github.com/ZahraN444/typrotitop/tree/3.4.3/doc/controllers/api.md)
+* [API](https://www.github.com/ZahraN444/typrotitop/tree/6.5.6/doc/controllers/api.md)
 
 ## Classes Documentation
 
-* [ApiResponse](https://www.github.com/ZahraN444/typrotitop/tree/3.4.3/doc/api-response.md)
-* [ApiError](https://www.github.com/ZahraN444/typrotitop/tree/3.4.3/doc/api-error.md)
+* [ApiResponse](https://www.github.com/ZahraN444/typrotitop/tree/6.5.6/doc/api-response.md)
+* [ApiError](https://www.github.com/ZahraN444/typrotitop/tree/6.5.6/doc/api-error.md)
 
